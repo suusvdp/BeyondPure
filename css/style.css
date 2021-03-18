@@ -1,0 +1,19 @@
+body { 
+	background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+
+.container { font-size: 40px;
+	         font-family: 'DM Sans', sans-serif;
+	         text-shadow: 2px 2px 2px #A57F63;
+	         text-align: center; 
+	         vertical-align: top;
+	         color: black
+}
+
+.footer {font-size: 12px;
+	     font-family: 'DM Sans', sans-serif;
+	     text-align: center; 
+         background: #A57F63}
