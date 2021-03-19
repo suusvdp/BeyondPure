@@ -1,10 +1,22 @@
 <!doctype html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>community</title>
-</head>
+<html lang="en">
+  <head>
+	  <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<body>
-</body>
-</html>
+ <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link href="css/style.css.txt.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+
+	  <!-- jQuery first (Popper is included in the Bootstrap JS) then Bootstrap JS -->
+  <script src="js/jquery-3.6.0.slim.js"></script>
+  <script src="js/bootstrap.bundle.min.js"></script>
+</head>
+	
+	<head>
+    <title>Beyond Pure Vision</title>
+  </head>
+	
+	<body>
+
