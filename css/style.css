@@ -1,10 +1,15 @@
 body { 
-	background-image: url(../images/background1.jpg);
+		background-image: url(../images/background1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 	background-attachment:scroll;
 	background-position: center;
+	height: 100%;
+    margin: 0;
+	
 } 
+
+
 
 
 .container { font-size: 40px;
@@ -12,13 +17,26 @@ body {
 	         text-shadow: 2px 2px 2px #A57F63;
 	         text-align: center; 
 	         vertical-align: top;
-	         color: black
+	         color: black;
+	         background-video: 
+		  
 }
+
+.wrapper {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
 
 .footer {font-size: 12px;
 	     font-family: 'DM Sans', sans-serif;
 	     text-align: center; 
-         background: #A57F63}
+         background: #A57F63
+       
+	   
+	   
+}
 
 .my-container {font-size: 12px; 
 
