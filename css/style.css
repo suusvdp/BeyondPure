@@ -17,9 +17,7 @@ body {
 	         text-shadow: 2px 2px 2px #A57F63;
 	         text-align: center; 
 	         vertical-align: top;
-	         color: black;
-	         background-video: 
-		  
+	         color: black   
 }
 
 .wrapper {
@@ -38,11 +36,9 @@ body {
 	   
 }
 
-.my-container {font-size: 12px; 
-
-              font-family: 'DM Sans', sans-serif; 
-
-              text-align: center;
+.my-container {font-size: 14px; 
+              font-family: 'DM Sans', sans-serif;
+	      
 } 
 
  
