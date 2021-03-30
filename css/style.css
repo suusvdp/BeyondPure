@@ -41,19 +41,27 @@ body {
               font-family: 'DM Sans', sans-serif; 
               text-align: center;
 	          padding: 15px;
+	          color: grey;
+	          
+	          
 	         	      
 } 
+
+
 
 .col {background: pink;
       margin: 10px;
 	  width: 200px;
 	  height: 200px;
 	  align-content: center;
+	box-shadow: 10px 10px black;
 }
 
-#h1 { font-size: 30px; 
+p { font-size: 18px; 
       font-family: 'DM Sans', sans-serif;
-      text-color: pink;      
+      color: white;  
+	  font-family: 'Share Tech Mono', monospace; 
+	  text-shadow: 2px 2px 5px grey;
 }
 
  
