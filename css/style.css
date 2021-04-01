@@ -2,14 +2,14 @@ body {
 	
 } 
 
-.homepage { background-image: url("../images/Background2.png");
+.homepage { background-image: url("../images/bghomepage.png");
     background-repeat: no-repeat;
     background-size: cover;
 	background-attachment:scroll;
 	background-position: center;
     height: inherit;
     margin: 0px;
-	background-position: top 5px;
+	background-position: top ;
 }
 
 .valuepage { 
@@ -78,8 +78,8 @@ body {
 } 
 
 #logo {align-content: center;
-	   width: 250px;
-	   height: 250px;
+	   width: 180px;
+	   height: 180px;
 	   
 
 }
