@@ -18,7 +18,7 @@ body {
     background-size: cover;
 	background-attachment:scroll;
 	background-position: bottom ;
-	background-position: top -10px;
+	background-position: top 50px;
     height: inherit;
 	margin: 0px;
 	} 
