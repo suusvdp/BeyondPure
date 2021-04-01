@@ -1,10 +1,11 @@
-body { 
+body {  height: inherit;
+    margin: 0px;
 
 	
 	
 } 
 
-.homepage { background-image: url("/BeyondPure/images/Background2.png");
+.homepage { background-image: url("../images/Background2.png");
     background-repeat: no-repeat;
     background-size: cover;
 	background-attachment:scroll;
@@ -51,9 +52,17 @@ body {
 	         	      
 } 
 
+#logo {align-content: center;
+	   width: 250px;
+	   height: 250px;
+	   
 
+}
 
-.col {background: pink;
+.values { width: 200px;
+          }
+
+.klcol {background: pink;
       margin: 10px;
 	  width: 200px;
 	  height: 200px;
