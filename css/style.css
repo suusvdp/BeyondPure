@@ -1,13 +1,18 @@
 body { 
-		background-image: url(../images/background1.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-	background-attachment:scroll;
-	background-position: center;
+
 	height: 100%;
     margin: 0;
 	
 } 
+
+.homepage { background-image: url("/BeyondPure/images/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-attachment:scroll;
+	background-position: center;
+    height: 100%;
+    margin: 0;
+}
 
 
 
