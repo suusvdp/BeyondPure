@@ -9,7 +9,7 @@ body {
 	background-position: center;
     height: inherit;
     margin: 0px;
-	background-position: top ;
+	
 }
 
 .valuepage { 
@@ -17,8 +17,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 	background-attachment:scroll;
-	background-position: bottom ;
-	background-position: top;
+	background-position: center;
     height: inherit;
 	margin: 0px;
 	} 
@@ -64,8 +63,8 @@ body {
 	         text-align: center; 
 	         vertical-align: top;
 	         color: black; 
-             padding-left: 320px;
-             padding-right: 320px;}
+             padding-left: 400px;
+             padding-right: 400px;}
 
 .my-container {font-size: 12px; 
               font-family: 'DM Sans', sans-serif; 
