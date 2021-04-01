@@ -16,7 +16,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 	background-attachment:scroll;
-	background-position: bottom -10px;
+	background-position: bottom ;
 	background-position: top 10px;
     height: inherit;
 	margin: 0px;
@@ -75,7 +75,7 @@ body {
 
 p { font-size: 18px; 
       font-family: 'DM Sans', sans-serif;
-      color: white;  
+      color: black;  
 	  font-family: 'Share Tech Mono', monospace; 
 	  text-shadow: 2px 2px 5px grey;
 }
