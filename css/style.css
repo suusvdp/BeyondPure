@@ -1,7 +1,4 @@
-body {  height: inherit;
-    margin: 0px;
-
-	
+body { 	
 	
 } 
 
@@ -13,6 +10,18 @@ body {  height: inherit;
     height: inherit;
     margin: 0px;
 }
+
+.valuepage { 
+	background-image: url("../images/bgvalues.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-attachment:scroll;
+	background-position: bottom -10px;
+	background-position: top 10px;
+    height: inherit;
+	margin: 0px;
+	} 
+
 
 
 
@@ -60,14 +69,8 @@ body {  height: inherit;
 }
 
 .values { width: 200px;
-          }
-
-.klcol {background: pink;
-      margin: 10px;
-	  width: 200px;
-	  height: 200px;
+	      height: 200px;
 	  align-content: center;
-	box-shadow: 10px 10px black;
 }
 
 p { font-size: 18px; 
