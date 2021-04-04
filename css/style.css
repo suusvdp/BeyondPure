@@ -109,7 +109,7 @@ body {
 	           text-align: center; }
 }
 
-#col4 { font-size: 30px;
+.col-4 { font-size: 30px;
       color:  white; 
 	  text-align: center;
 	  font-family: 'Barlow', sans-serif; }
@@ -120,6 +120,15 @@ body {
 	  font-family: 'Barlow', sans-serif;}
 
 #scenario { font-size: 15px;}
+
+#photo { height: 200px;
+	     width: 300px;
+      }
+.column3 {text-align: center;
+         margin: 0 auto; 
+        float: none; 
+        margin-bottom: 10px;
+        }
 
 #diverssity {  
 	align-content: flex-end;
