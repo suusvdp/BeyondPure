@@ -33,15 +33,97 @@ body {
 
 }
 
+.communitypage { background-image: url(/"../images/bgdoversity.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-attachment:scroll;
+	background-position: center;
+    height: inherit;
+	margin: 0px;}
 
 
 
-.container { font-size: 40px;
+
+.containerj { font-size: 40px;
 	         font-family: 'DM Sans', sans-serif;
 	         text-shadow: 2px 2px 2px #A57F63;
 	         text-align: center; 
 	         vertical-align: top;
 	         color: black  
+}
+
+
+
+
+#diverssity {  
+	align-content: flex-end;
+	width: 250px;
+	height: 300px;}
+
+#coldiversity { 
+	align-items: flex-end; 
+    text-align: center;
+	vertical-align: middle;
+	
+}
+
+#textdivcol {  font-family: 'Barlow', Semi-bold-600;
+              text-align: end;
+              font-size: 50px;
+              text-align: right;
+	          vertical-align: middle;
+	          color: white;
+	          background-color: pink;
+	         
+}
+
+#cmtext1 { font-size: 50px;
+      color: black; 
+	  text-align: center;
+	  font-family: 'Barlow', sans-serif;
+	
+	   }
+
+#cmtext2 { font-size: 18px; 
+      font-family: 'Barlow', sans-serif;
+      color: black;  
+	  text-align: center;
+	   }
+
+#cmtext3 {font-size: 30px; 
+      font-family: 'Barlow', sans-serif;
+      color: black;  
+	  text-align: center; }
+
+.container3 { background-color: pink;
+              
+}
+
+.card-body {text-align: center;
+            background-color: pink;
+	        font-family: 'Barlow', sans-serif;
+	        font-size: 12px;
+	        width: 300px;
+	        vertical-align: middle;
+	 
+}
+
+.card { width: 300px;
+        text-align: center;
+         margin: 0 auto; 
+        float: none; 
+        margin-bottom: 10px; }
+
+.col { {align-content: center;
+           text-align: center;
+           align-items: center;
+	      vertical-align: middle;
+	      }
+
+
+
+
+
 }
 
 .wrapper {
@@ -88,7 +170,7 @@ body {
 	  align-content: center;
 }
 
-p { font-size: 18px; 
+ homepagetext { font-size: 18px; 
       font-family: 'DM Sans', sans-serif;
       color: black;  
 	  font-family: 'Share Tech Mono', monospace; 
