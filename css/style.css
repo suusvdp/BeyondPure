@@ -152,10 +152,13 @@ body {
 	  text-align: center; 
 }
 
-#flowdiagram {width: 400px; 
-              height: 400px;
+#flowdiagram {width: 842px; 
+              height: 595px;
+	          text-align: left;
 	          
 }
+
+.containerdiagram { text-align: left;}
 
 .card-text { color: white;
               font-family: 'Barlow', sans-serif;
