@@ -69,33 +69,55 @@ body {
 	    
 }
 
-.podcasts 
+.podcastspage { background-image: url("../images/valuesbg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-attachment:scroll;
+	background-position: center;}
 
-h5 { font-size: 18px; 
-      font-family: 'Barlow', sans-serif;
-      color: black;  
-	  text-align: center;}
+#h5 {font-size: 12px; 
+     font-family: 'Barlow', sans-serif;
+      color: white;  
+	  text-align: center; 
+	margin: 0px 5px 0px 5px;
+	padding: 0px 5px 0px 5px;
+}
 
 .my-card-body {
-  padding: 0px;
   text-align: center;
-  margin: 0px;
-  border: 1px solid #ccc;
+  border: 1px solid #6B4D30;
   width: 200px;
-  background-color: #CCCCCC;
-  height: 350px;
+  background-color:#6B4D30;
+  height: 150px;
+  align-content: center;
+ margin: 0 auto; 
+   float: none; 
+   margin-bottom: 0px;
+	color: white;
+	font-size: 20px; 
+    font-family: 'Barlow', sans-serif;
 	
 } 
 
 .my-card-img-top {
-  margin: 0px;
-  border: 1px solid #ccc;
-  float: left;
+  border: 1px solid #6B4D30;
   width: 200px;
-align-content: center
+ text-align: center;
 	
 }
 
+.container-row { align-content: center;
+                  margin: 0 auto; 
+                  float: none; 
+                  margin-bottom: 0px;
+}
+
+#col-sm {  align-content: center;
+                  margin: 0 auto; 
+                  float: none; 
+                  margin-bottom: 0px;
+                  text-align: center;
+}
 
 .communitypage { background-image: url(/"../images/bgdoversity.png");
     background-repeat: no-repeat;
