@@ -12,6 +12,11 @@ body {
 	
 }
 
+#homepagetext {  text-align: center; 
+	             vertical-align: top;
+	             color: black  
+}
+
 .one {font-size: 50px;
       color: black; 
 	  text-align: center;
@@ -22,6 +27,11 @@ body {
       color: black;  
 	  text-align: center;
 }
+
+#logo {align-content: center;
+	   width: 180px;
+	   height: 180px;
+	text-align: center; }
 
 
 
@@ -46,6 +56,19 @@ body {
 
 }
 
+.visiontext { margin: 0px 60px 0px 60px;}
+
+#visiontext {font-size: 25px;
+      color:  #6B4D30 ; 
+	  text-align: center;
+	  font-family: 'Barlow', sans-serif;
+      text-shadow: white 1px 1px 1px }
+
+.col-6 { vertical-align: middle;
+	     align-content: center;
+	    
+}
+
 .communitypage { background-image: url(/"../images/bgdoversity.png");
     background-repeat: no-repeat;
     background-size: cover;
@@ -54,16 +77,49 @@ body {
     height: inherit;
 	margin: 0px;}
 
+.justificationpage
 
-
-
-#homepagetext {  text-align: center; 
-	             vertical-align: top;
-	             color: black  
+#justificationtxt {font-size: 50px;
+      color: black; 
+	  text-align: center;
+	  font-family: 'Barlow', sans-serif; }
+#justtxt1 { font-size: 18px; 
+      font-family: 'Barlow', sans-serif;
+      color: black;  
+	  text-align: center; 
 }
 
+#flowdiagram {width: 400px; 
+              height: 400px;
+	          
+}
 
+.containerdiagram { width: 300px;
+         margin: 0 auto; 
+        float: none; 
+        margin-bottom: 10px;
+}
 
+.jumbotron2  { background-color:#6B4D30; }
+
+.jumbotron-3 { margin: 0px 10px 0px 10px;
+               font-size: 12px; 
+               font-family: 'Barlow', sans-serif;
+               color: white;  
+	           text-align: center; }
+}
+
+#col4 { font-size: 30px;
+      color:  white; 
+	  text-align: center;
+	  font-family: 'Barlow', sans-serif; }
+
+#col5 { font-size: 12px;
+      color: white; 
+	  text-align: center;
+	  font-family: 'Barlow', sans-serif;}
+
+#scenario { font-size: 15px;}
 
 #diverssity {  
 	align-content: flex-end;
@@ -83,7 +139,7 @@ body {
               text-align: right;
 	          vertical-align: middle;
 	          color: white;
-	          background-color: pink;
+	          background-color: #6B4D30;
 	         
 }
 
@@ -105,12 +161,12 @@ body {
       color: black;  
 	  text-align: center; }
 
-.container3 { background-color: pink;
+.container3 { background-color: #6B4D30;
               
 }
 
 .card-body {text-align: center;
-            background-color: pink;
+            background-color: #6B4D30;
 	        font-family: 'Barlow', sans-serif;
 	        font-size: 12px;
 	        width: 300px;
@@ -149,7 +205,7 @@ body {
          background: #A57F63;  
 }
 
-.visiontext { font-size: 20px;
+.visntext { font-size: 20px;
 	         font-family: 'DM Sans', sans-serif,;
 	         text-shadow: 2px 2px 2px white;
 	         text-align: center; 
@@ -168,10 +224,7 @@ body {
 	         	      
 } 
 
-#logo {align-content: center;
-	   width: 180px;
-	   height: 180px;
-	   text-align: center;
+
 
 }
 
