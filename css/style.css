@@ -152,16 +152,20 @@ body {
 	  text-align: center; 
 }
 
-#flowdiagram {width: 842px; 
-              height: 595px;
+#jumbotron{ align-text: center;}
+
+.flowdiagram {width: 561px; 
+              height: 396px;
 	          text-align: center;
 	          margin: 0 auto; 
               float: none; 
               margin-bottom: 10px;
-	          align-content: center;align-items: center
+	          align-content: center;align-items: center;
 	          
 	          
 }
+
+.col-img {text-align: left;}
 
 .containerdiagram { text-align: center;}
 
