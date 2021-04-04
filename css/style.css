@@ -12,6 +12,19 @@ body {
 	
 }
 
+.one {font-size: 50px;
+      color: black; 
+	  text-align: center;
+	  font-family: 'Barlow', sans-serif;
+	 }
+.lead { font-size: 18px; 
+      font-family: 'Barlow', sans-serif;
+      color: black;  
+	  text-align: center;
+}
+
+
+
 .valuepage { 
 	background-image: url("../images/bgvalues.png");
     background-repeat: no-repeat;
@@ -44,12 +57,9 @@ body {
 
 
 
-.containerj { font-size: 40px;
-	         font-family: 'DM Sans', sans-serif;
-	         text-shadow: 2px 2px 2px #A57F63;
-	         text-align: center; 
-	         vertical-align: top;
-	         color: black  
+#homepagetext {  text-align: center; 
+	             vertical-align: top;
+	             color: black  
 }
 
 
@@ -161,7 +171,7 @@ body {
 #logo {align-content: center;
 	   width: 180px;
 	   height: 180px;
-	   
+	   text-align: center;
 
 }
 
