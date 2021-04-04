@@ -93,7 +93,7 @@ body {
   border: 1px solid #A57F63;
   width: 200px;
   background-color:#A57F63;
-  height: 150px;
+  height: 200px;
   align-content: center;
  margin: 0 auto; 
    float: none; 
@@ -103,6 +103,8 @@ body {
     font-family: 'Barlow', sans-serif;
 	
 } 
+
+
 
 .my-card-img-top {
   border: 1px solid #A57F63;
