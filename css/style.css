@@ -130,6 +130,35 @@ body {
         margin-bottom: 10px;
         }
 
+.find-uspage { background-image: url("../images/valuesbg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-attachment:scroll;
+	background-position: center;
+    height: inherit;
+    margin: 0px;}
+
+.col { height: 200px;
+        width: 200px; }
+.col { height: 200px;
+        width: 200px; }
+.col { height: 200px;
+        width: 200px; }
+.col { height: 200px;
+        width: 200px; }
+
+.container-row {text-align: center;
+         margin: 0 auto; 
+        float: none; 
+        margin-bottom: 10px; 
+        text-align: center;
+	          }
+
+.row-cols-sm-4 {text-align: center;
+	            margin: 0 auto; 
+              float: none; 
+               margin-bottom: 0px;  }
+
 #diverssity {  
 	align-content: flex-end;
 	width: 250px;
