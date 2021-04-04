@@ -69,6 +69,34 @@ body {
 	    
 }
 
+.podcasts 
+
+h5 { font-size: 18px; 
+      font-family: 'Barlow', sans-serif;
+      color: black;  
+	  text-align: center;}
+
+.my-card-body {
+  padding: 0px;
+  text-align: center;
+  margin: 0px;
+  border: 1px solid #ccc;
+  width: 200px;
+  background-color: #CCCCCC;
+  height: 350px;
+	
+} 
+
+.my-card-img-top {
+  margin: 0px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 200px;
+align-content: center
+	
+}
+
+
 .communitypage { background-image: url(/"../images/bgdoversity.png");
     background-repeat: no-repeat;
     background-size: cover;
@@ -135,8 +163,7 @@ body {
     background-size: cover;
 	background-attachment:scroll;
 	background-position: center;
-    height: inherit;
-    margin: 0px;}
+} 
 
 .col { height: 200px;
         width: 200px; }
@@ -147,12 +174,12 @@ body {
 .col { height: 200px;
         width: 200px; }
 
-.container-row {text-align: center;
-         margin: 0 auto; 
-        float: none; 
-        margin-bottom: 10px; 
-        text-align: center;
-	          }
+#socials {font-size: 25px; 
+      font-family: 'Barlow', sans-serif;
+      color: black;  
+	  text-align: center; }
+
+	          
 
 .row-cols-sm-4 {text-align: center;
 	            margin: 0 auto; 
